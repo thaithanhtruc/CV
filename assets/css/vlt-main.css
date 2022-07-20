@@ -1579,7 +1579,7 @@ select:focus::-webkit-input-placeholder
     font-size: 1rem;
 
     white-space: nowrap; 
-    text-transform: lowercase;
+    text-transform: uppercase;
 }
 .vlt-navbar-contacts a:hover
 {
